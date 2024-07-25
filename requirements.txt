@@ -1,0 +1,12 @@
+numpy
+scikit-learn
+pillow
+tensorflow
+matplotlib
+seaborn
+tqdm
+scikit-plot
+pandas
+opencv-python
+ipywidgets
+split-folders
